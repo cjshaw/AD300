@@ -1,2 +1,2 @@
 # AD300
-Java projects and labs completed for AD300
+Stable Marriage assignment for Java 2
